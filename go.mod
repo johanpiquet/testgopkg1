@@ -1,3 +1,3 @@
-module johanpiquet/testgopkg1
+module github.com/johanpiquet/testgopkg1
 
 go 1.21
